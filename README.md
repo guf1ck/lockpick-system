@@ -5,6 +5,7 @@
 An easy lockpick export for Redm or fivem.
 I know this was in a lot of leaked resource and has been made similarly.
 But this one I edited it myself from the codepen mentioned below.
+Credits to [antoxa-kms](https://codepen.io/antoxa-kms/).
 
 ## Installation
 
@@ -27,3 +28,7 @@ end)
 ## Contribution
 
 Suggestions and pull request are welcome!
+
+## Acknowledgements
+
+I do not take any credits from the UI code, credits to [antoxa-kms](https://codepen.io/antoxa-kms/pen/qbqoMy) codepen.
